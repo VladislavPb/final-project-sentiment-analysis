@@ -1,6 +1,6 @@
 # final-project-sentiment-analysis
 
-**Final project of Coursera Machine Learning specialization https://www.coursera.org/learn/data-analysis-project/
+**Final project of Coursera Machine Learning specialization** https://www.coursera.org/learn/data-analysis-project/
 
 **Sentiment Analysys**
 
@@ -8,7 +8,7 @@ In this project different tasks of sentiment text analysis are solved. It starts
 
 
 
-**Финальный проект специализации Coursera "Машинное обучение и анализ данных" https://www.coursera.org/learn/data-analysis-project/
+**Финальный проект специализации Coursera "Машинное обучение и анализ данных"** https://www.coursera.org/learn/data-analysis-project/
 
 **Сентимент-анализ**
 
